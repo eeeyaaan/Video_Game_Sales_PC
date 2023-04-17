@@ -1,5 +1,5 @@
 #Videogame Sales PC and PS4
-##Data is from https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download
+#Data is from https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download
 #Comparison of videogames (PC,PS4) global sales
 ![image](https://user-images.githubusercontent.com/129279332/232432329-b68c150e-78c3-456a-8fdc-eb7bb0e26813.png)
 ![image](https://user-images.githubusercontent.com/129279332/232432426-310b04f8-06c4-4187-8a81-1abee226c9c3.png)
